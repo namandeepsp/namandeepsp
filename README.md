@@ -38,5 +38,5 @@ _React + Node.js application with authentication and REST APIs._
 
 ## 🌍 Connect with Me
 
-🔗 [LinkedIn](https://linkedin.com/in/yourlinkedin)  
-📩 Email: your.email@example.com
+🔗 https://www.linkedin.com/in/naman-deep-singh-980a62211/  
+📩 Email: namandeepsp@gmail.com
